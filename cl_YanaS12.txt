@@ -1,0 +1,4 @@
+[svadba]
+1745936=21.01.2015;
+hash=b72d529d9b25d4d1ddf2bc2ebc64e57b;
+[END]

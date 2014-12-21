@@ -1,0 +1,4 @@
+[svadba]
+1738921=21.01.2015;
+hash=ffc66e2d5ecc4cf71dc482d2f81a40f1;
+[END]

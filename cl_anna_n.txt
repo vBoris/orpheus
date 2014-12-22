@@ -1,0 +1,4 @@
+[svadba]
+1749384=22.04.2015;
+hash=44114c2d6f6b4ac9d43dd0af86ea0edc;
+[END]

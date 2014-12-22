@@ -18,4 +18,5 @@ anna_n=5fa285e1bebe0a6623e33afc04a1fbd5;
 katya_s=5fa285e1bebe0a6623e33afc04a1fbd5;
 natali_v=5fa285e1bebe0a6623e33afc04a1fbd5;
 katya_r=5fa285e1bebe0a6623e33afc04a1fbd5;
+sos=50f6e827123918f5861b673c36cb9c0b;
 [END]
